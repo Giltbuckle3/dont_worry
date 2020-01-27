@@ -1,0 +1,24 @@
+---
+title: "hw1.Rmd"
+author: "Juan Simons, Github: Giltbuckle3"
+date: "1/21/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Part 3
+
+
+![](https://www.cs.purdue.edu/undergraduate/curriculum/data-science-header.jpg)
+
+A job related to **Data Science**? There are so many jobs in the world that include some aspects of Data Science nowadays as it is such a broad and important field to any industry’s life, improvement, and outreach . In this case specifically, I present a Data Analytics job in Spotify. They use data to identify what music to recommend to users based on the content they have listened to. More specifically, the job title is one of *Data Scientist*. In this job one would find the most optimal practices for productivity, use data visualization to present key concepts and better the user experience in terms of what content they are recommended.
+
+[Spotify webpage](https://www.spotifyjobs.com/job/digital-workplace-insights/)
+
+```{r}
+version
+```
+
